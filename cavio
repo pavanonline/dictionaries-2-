@@ -1,0 +1,16 @@
+X ={"pavan":["1","M","MCCS","90"],
+    "ramesh":["2","M","MCCS","50"]
+    }
+e = input("enter name")
+print("enter the rollno.",X[e][0])
+print("enter the gender",X[e][1])
+print("enter the group",X[e][2])
+print("enter the age",X[e][3])
+
+
+
+enter namepavan
+enter the rollno. 1
+enter the gender M
+enter the group MCCS
+enter the age 90
